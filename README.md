@@ -1,4 +1,4 @@
-- 👋 Olá, este é o perfil do Hospital São José de Doenças Infecciosas - HSJDI/SESA-CE;
+- 👋 Olá, este é o perfil do Hospital São José - HSJDI/SESA-CE;
 
 <div>
   <a href="https://github.com/HSJ-2021">
