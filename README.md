@@ -3,7 +3,6 @@
 <div>
   <a href="https://github.com/HSJ-2021">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HSJ-2021&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HSJ-2021&layout=compact&langs_count=16&theme=dark"/>
 </div>
   
  <div style="display: inline_block"><br>
@@ -15,5 +14,7 @@
   <img align="center" alt="HSJ-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="HSJ-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
+  
+##
 
-
+ <a href = "mailto:nadirlan.fontinele@hsj.ce.gov.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
